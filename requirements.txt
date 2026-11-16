@@ -1,0 +1,6 @@
+torch
+transformers
+accelerate
+scikit-learn
+pandas
+matplotlib
