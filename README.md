@@ -1,4 +1,5 @@
-# ML Hallucination Detector
+# ML-Hallucination_Detector
+*Mini Project for ML*
 
 A research-oriented Machine Learning project designed to detect potential hallucinations in Large Language Models (LLMs) by analyzing their internal signals, focusing on:
 
